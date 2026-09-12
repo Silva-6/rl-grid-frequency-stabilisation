@@ -155,6 +155,7 @@ Any future implementation should therefore be regarded as a reimplementation of 
 
 ## Repository Structure
 
+```text
 rl-grid-frequency-stabilisation/
 ├── README.md
 ├── docs/
@@ -176,4 +177,5 @@ rl-grid-frequency-stabilisation/
 │   └── evaluation/
 ├── experiments/
 ├── results/
+```
 └── figures/
