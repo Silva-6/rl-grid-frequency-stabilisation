@@ -41,7 +41,7 @@ The refined state representation consisted of:
 [frequency deviation,
  previous control action,
  inverter output]
-
+```
 The state was reformulated after the initial controller exhibited unstable and inconsistent behaviour. The original state representation was not capturing enough of the system dynamics for the controller to make consistent decisions.
 
 ### Action
